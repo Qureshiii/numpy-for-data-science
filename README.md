@@ -106,7 +106,9 @@ Contributions that improve clarity, correctness, or learning value are welcome. 
 
 ## License
 
-No license is currently specified. Add a `LICENSE` file before reusing or redistributing this material under open-source terms.
+This project is licensed under the [MIT License](LICENSE). The license applies to original code and documentation in this repository. Third-party datasets and other included materials remain subject to their respective terms.
+
+---
 
 ---
 
